@@ -1,0 +1,120 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    margin: 0;
+    background-color: #ebebeb ;
+}
+
+header {
+    background-color: #EAC926;
+}
+
+header img {
+    width: 150px;
+    padding: 15px;
+    margin-left: 15px;
+}
+
+header input {
+    border-radius: 5px;
+    margin: 0 0 0 15px;
+    width: 180px;
+    border: 1px solid #000;
+}
+
+header .wrapper {
+    margin-left: 15px;
+}
+
+#searchButton {
+    padding: 0 0 0 0;
+}
+
+header p {
+    text-align: center;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: #000;
+}
+
+header nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+header nav div {
+    text-align: center;
+}
+
+header nav div button {
+    background-color:#1259c3;
+    border-radius: 5px;
+    height: 35px;
+    width: 35px;
+    border: none;
+    margin: 15px 0 20px 0;
+    line-height: 0;
+}
+
+header nav div button i {
+    color: #fff;
+    font-size: 16px;
+}
+
+main section h3 {
+    font-size: 24px;
+    color: #666;
+}
+
+.precio {
+    font-size: 18px;
+}
+
+main section article p {
+    font-size: 16px;
+}
+
+h4 {
+    font-size: 16px;
+}
+
+footer {
+    background-color: #fff;
+    margin: 0 8px 0 8px;
+}
+
+footer section article div {
+    margin-top: 50px;
+}
+
+footer h3 {
+    margin: 0;
+    color: #666;
+}
+
+footer p {
+    margin: 0;
+    color: #666;
+}
+
+footer i {
+    font-size: 2em;
+    margin-bottom: 10px;
+    color: #1259c3;
+}
+
+footer article {
+    text-align: center;
+    padding: 0 50px 0 50px;
+}
+
+footer section article h5{
+    color: #666;
+}
+
+#copyright{
+    padding-left: 15px;
+    text-align: left;
+}
