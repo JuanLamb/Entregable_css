@@ -100,9 +100,11 @@ h4 {
 footer {
     background-color: #fff;
     margin: 0 8px 0 8px;
+    width: 95%;
+    overflow: auto;
 }
 
-footer section article div {
+footer section article {
     margin-top: 50px;
 }
 
