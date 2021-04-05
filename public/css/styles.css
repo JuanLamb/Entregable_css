@@ -124,6 +124,7 @@ main section h3 {
 main section article {
     background-color: #fff;
     margin: 10px;
+    transition: box-shadow 500ms;
 }
 
 main .caracteristicasArticulo {
@@ -296,6 +297,7 @@ footer {
     margin: auto;
     width: 100%;
     padding-top: 3px;
+    margin-top: 5px;
 }
 
 footer .comentarioFooter {
@@ -402,7 +404,7 @@ footer section article h5{
     }
 
     main article:hover h4 {
-        display: block;
+        /* display: block; */
         margin-top: 25px;
         height:auto;
         opacity: 1;
